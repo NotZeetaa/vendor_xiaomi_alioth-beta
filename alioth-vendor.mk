@@ -1163,7 +1163,6 @@ PRODUCT_PACKAGES += \
     libthermalclient \
     CACertService \
     CneApp \
-    IFAAService \
     IWlanService \
     MipayService \
     SoterService \
